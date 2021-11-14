@@ -1,0 +1,5 @@
+C:\Users\sasha\source\repos\MathTester\MathTester\bin\Debug\MathTester.dll
+C:\Users\sasha\source\repos\MathTester\MathTester\bin\Debug\MathTester.pdb
+C:\Users\sasha\source\repos\MathTester\MathTester\obj\Debug\MathTester.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\MathTester\MathTester\obj\Debug\MathTester.dll
+C:\Users\sasha\source\repos\MathTester\MathTester\obj\Debug\MathTester.pdb
